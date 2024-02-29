@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+    font-family: "Open Sans", sans-serif;
+}
+
+.first-block {
+    padding: 10px;
+   
+}
+
+.cross {
+    padding: 10px;
+    font-size: 2rem;
+}
+
+.heading-para {
+
+    font-size: 2rem;
+    width: 100%;
+    font-weight: bold;
+
+}
+
+#heading-safety {
+    margin-top: 10%;
+}
+
+.heading-safety {
+
+    font-size: 1.2rem;
+    width: 100%;
+    font-weight: bold;
+
+}
+
+.heading-safety-para {
+    font-size: 0.7rem;
+    color: rgb(189, 189, 168);
+}
+
+.thumb {
+    margin-top: 4%;
+    width: 80%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+#praised {
+    margin-top: 10%;
+}
